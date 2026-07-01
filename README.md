@@ -111,10 +111,7 @@ You can add screenshots here.
 assets/dashboard.png
 ```
 ### Department List
-
-```
-assets/Department - Employee Management System.png
-```
+![Dashboard](assets/Department - Employee Management System.png)
 ### Employee List
 
 ```
