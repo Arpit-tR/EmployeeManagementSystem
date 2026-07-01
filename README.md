@@ -133,7 +133,7 @@ Employees (Many)
 ### PDF Report
 
 <p align="center">
-  <img src="assets/EmployeeRepor_2.jpg" width="900">
+  <img src="assets/EmployeeReport_2.png" width="900">
 </p>
 
 ---
