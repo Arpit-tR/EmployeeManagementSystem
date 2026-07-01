@@ -106,22 +106,25 @@ Employees (Many)
 
 You can add screenshots here.
 
-### Dashboard / Employee List
+### Dashboard 
+```
+assets/dashboard.png
+```
+### Department List
 
 ```
-assets/images/employee-list.png
+assets/Department - Employee Management System.png
 ```
-
-### Create Employee
+### Employee List
 
 ```
-assets/images/create-employee.png
+assets/Employee - Employee Management System.png
 ```
 
 ### PDF Report
 
 ```
-assets/images/pdf-report.png
+assets/EmployeeRepor_2.jpg
 ```
 
 ---
