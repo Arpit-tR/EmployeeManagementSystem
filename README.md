@@ -104,25 +104,37 @@ Employees (Many)
 
 ## Screenshots
 
-You can add screenshots here.
+## Screenshots
 
-### Dashboard 
-```
-assets/dashboard.png
-```
+### Dashboard
+
+<p align="center">
+  <img src="assets/dashboard.png" width="900">
+</p>
+
+---
+
 ### Department List
-![Dashboard](assets/Department - Employee Management System.png)
+
+<p align="center">
+  <img src="assets/Department%20-%20Employee%20Management%20System.png" width="900">
+</p>
+
+---
+
 ### Employee List
 
-```
-assets/Employee - Employee Management System.png
-```
+<p align="center">
+  <img src="assets/Employee%20-%20Employee%20Management%20System.png" width="900">
+</p>
+
+---
 
 ### PDF Report
 
-```
-assets/EmployeeRepor_2.jpg
-```
+<p align="center">
+  <img src="assets/EmployeeRepor_2.jpg" width="900">
+</p>
 
 ---
 
