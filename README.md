@@ -240,7 +240,7 @@ GitHub:
 https://github.com/Arpit-tR
 
 LinkedIn:
-*(Add your LinkedIn profile here if available.)*
+https://www.linkedin.com/in/arpit-sadhukhan/
 
 ---
 
